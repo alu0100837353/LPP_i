@@ -1,1 +1,1 @@
-Trabajo en equipo con git
+Mientras que en la compilación se traduce a codigo fuente en la interpretación se ejecuta linea a linea
