@@ -1,1 +1,14 @@
-Mientras que en la compilación se traduce a codigo fuente en la interpretación se ejecuta linea a linea
+1. ¿Diferencia entre compilación e interpretación?
+
+En la compilación se genera un nuevo fichero(en código máquina) a partir de nuestro fichero fuente  
+mientras que en la interpretación se analiza y ejecuta cada línea de código sin necesidad
+de generar un nuevo fichero.
+
+2. ¿Cual es la principal diferencia entre el contenido del fichero helloWorld.sh y helloWorld.rb?
+
+La principal diferencia entre los dos ficheros es que en helloWorld.sh en la primera línea se especifica 
+la ruta del intérprete que se quiere usar y en helloWorld.rb no.
+
+¿Qué significado tiene la primera línea del fichero helloWorld.sh?
+
+La ruta del intérprete que se quiere usar.
